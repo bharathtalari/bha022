@@ -1,3 +1,5 @@
 hello this is a this
 docker
 ansible
+kubernetes
+aws
