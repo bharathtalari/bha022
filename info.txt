@@ -1,6 +1,7 @@
 hello this is a this
 docker
 ansible
+aws 
 kubernetes
 aws
 devops
